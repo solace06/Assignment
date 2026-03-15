@@ -23,7 +23,7 @@ Tasks are stored **in memory** and no database is required.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/solace06/Assignment.git
 cd ANRA_Assignment
 ```
 
